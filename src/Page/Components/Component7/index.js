@@ -11,7 +11,7 @@ const Component7 = () => {
         classAdd={"bold"}
       />
 
-      <img src="6thpageimg.svg" />
+      <img src="pmsbox.svg" />
       <InfoText
         data={`Tailor your monthly box of organic period products without the organic price tag (no pink taxing here). Get it delivered to your doorstep in sustainable packaging and track your subscription on our app. `}
       />
